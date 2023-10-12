@@ -1,0 +1,54 @@
+[33mcommit c3d6625709f99e911de051cb1d3d57167ea87096[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 81bcbd1 85d2e68
+Author: dawitkassa <dkassa253@gmail.com>
+Date:   Fri Oct 6 15:05:49 2023 +0300
+
+    fix merge confilct
+
+[33mcommit 81bcbd192c7ce9f100750478905944be488290c7[m
+Author: dawitkassa <dkassa253@gmail.com>
+Date:   Fri Oct 6 15:02:31 2023 +0300
+
+    add color to h1
+
+[33mcommit 85d2e68d427d010136ac54f0bcd62a335d1d3d50[m
+Author: dawitkassa <131532517+dawitkassa@users.noreply.github.com>
+Date:   Fri Oct 6 15:01:46 2023 +0300
+
+    h1 color black
+
+[33mcommit e38a01b66b07df56aa8b5fa93d2430e956874018[m
+Author: dawitkassa <131532517+dawitkassa@users.noreply.github.com>
+Date:   Fri Oct 6 14:57:36 2023 +0300
+
+    add h2
+
+[33mcommit 87496e5fa5b2fcec0b1a05dd3495bd3c0873a144[m
+Author: dawitkassa <dkassa253@gmail.com>
+Date:   Fri Oct 6 14:53:28 2023 +0300
+
+    add and commit togther
+
+[33mcommit ec8213e900b6986bb236d3656b4c4202419a3a03[m
+Author: dawitkassa <dkassa253@gmail.com>
+Date:   Fri Oct 6 14:46:20 2023 +0300
+
+    add newhtml.html
+
+[33mcommit ee5075206162392820872e3f6c9d35ed8a046f44[m
+Author: dawitkassa <dkassa253@gmail.com>
+Date:   Fri Oct 6 14:17:38 2023 +0300
+
+    lllla
+
+[33mcommit ba3b9e187143ce7c490d6331bb75371de6fa2a98[m
+Author: dawitkassa <dkassa253@gmail.com>
+Date:   Fri Oct 6 14:05:49 2023 +0300
+
+    heeeeeeey
+
+[33mcommit 70754178028175c1f5532b2c98795e33c4af9b2f[m
+Author: dawitkassa <dkassa253@gmail.com>
+Date:   Fri Oct 6 13:46:42 2023 +0300
+
+    first commit
